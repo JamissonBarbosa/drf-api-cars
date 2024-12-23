@@ -1,5 +1,6 @@
 asgiref==3.8.1
 cachetools==5.5.0
+dj-database-url==2.3.0
 Django==5.1.4
 django-rql==4.4.1
 djangorestframework==3.15.2
